@@ -19,7 +19,7 @@ public final class App {
 
         // ArraySortExample.example02();
 
-        // CollectionSortExample.example02();
+        CollectionSortExample.example02();
 
         // HashMapExample.example();
 
@@ -30,7 +30,7 @@ public final class App {
         // ArraySortExample ex = new ArraySortExample();
         // ex.example();
 
-        LinkedListExample.example();
+        // LinkedListExample.example();
 
 
     }
