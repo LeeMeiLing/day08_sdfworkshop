@@ -23,8 +23,9 @@ public final class App {
 
         // HashMapExample.example();
 
-        HashTableExample.example();
+        // HashTableExample.example();
 
+        ConcurrentHashMapExample.example();
 
         // ArraySortExample ex = new ArraySortExample();
         // ex.example();
