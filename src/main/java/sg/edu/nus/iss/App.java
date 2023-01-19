@@ -19,7 +19,7 @@ public final class App {
 
         // ArraySortExample.example02();
 
-        CollectionSortExample.example02();
+        // CollectionSortExample.example02();
 
         // HashMapExample.example();
 
@@ -31,6 +31,8 @@ public final class App {
         // ex.example();
 
         // LinkedListExample.example();
+
+        StackExample.example();
 
 
     }
