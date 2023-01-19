@@ -1,0 +1,4 @@
+staffNo,fullName,department,role,emailAddress,salary
+12345,Darryl Ng,SS,Lecturer,darryl@email.com,20000
+23456,Dennis Leong,SS,Lecturer,dennis@email.com,15000
+34567,Dendon Ong,SS,Lecturer,dendon@email.com,25000
