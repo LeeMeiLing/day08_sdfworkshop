@@ -19,7 +19,12 @@ public final class App {
 
         // ArraySortExample.example02();
 
-        CollectionSortExample.example02();
+        // CollectionSortExample.example02();
+
+        // HashMapExample.example();
+
+        HashTableExample.example();
+
 
         // ArraySortExample ex = new ArraySortExample();
         // ex.example();
