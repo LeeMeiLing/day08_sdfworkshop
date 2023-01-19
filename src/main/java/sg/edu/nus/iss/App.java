@@ -25,10 +25,12 @@ public final class App {
 
         // HashTableExample.example();
 
-        ConcurrentHashMapExample.example();
+        // ConcurrentHashMapExample.example();
 
         // ArraySortExample ex = new ArraySortExample();
         // ex.example();
+
+        LinkedListExample.example();
 
 
     }
