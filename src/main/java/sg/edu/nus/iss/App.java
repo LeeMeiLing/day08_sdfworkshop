@@ -13,9 +13,13 @@ public final class App {
      */
     public static void main(String[] args) {
 
-        ArraySortExample.example();
+        // ArraySortExample.example();
 
-        CollectionSortExample.example01();
+        // CollectionSortExample.example01();
+
+        // ArraySortExample.example02();
+
+        CollectionSortExample.example02();
 
         // ArraySortExample ex = new ArraySortExample();
         // ex.example();
